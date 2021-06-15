@@ -68,7 +68,7 @@ When replaying to reviewers be polite, kind, and grateful.
 
 The hope: ```African scholarship is of a standard and quality -- promotion of local scholarship``. 
 
-    The impact factor does not measure the good quality of a given journal, nor a number of a citation for a given article. The two most cited papers in South Africa are quite controversial. Notice that the impact factor is highly related to the field of the journal. 
+*The impact factor does not measure the good quality of a given journal, nor a number of a citation for a given article. The two most cited papers in South Africa are quite controversial. Notice that the impact factor is highly related to the field of the journal*. 
 
 Check publications ethics:  publicationethics.org
 
